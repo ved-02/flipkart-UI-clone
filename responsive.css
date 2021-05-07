@@ -1,0 +1,26 @@
+@media screen and (max-width:824px) {
+    
+    nav{
+        height: 13vh;
+        justify-content: center;
+        padding: 36px;
+        flex-direction: column;
+    }
+    #searchbar{
+        margin: 2vw;
+    }
+    nav a{
+        margin: 8vw;
+    }
+    #search{
+        text-align: center;
+        width: 37vw;
+        margin: 0px;
+    }
+    nav button{
+        margin: 1vw;
+    }
+    product img{
+        width: 175px;
+    }
+}
